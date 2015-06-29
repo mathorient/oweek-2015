@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Age of Empires",
+    "short": "empires",
+    "type": "pt"
+  },
+  {
+    "name": "Animal Cross Product",
+    "short": "animal",
+    "type": "pt"
+  },
+  {
+    "name": "Call of Du/Dy",
+    "short": "call",
+    "type": "dv"
+  },
+  {
+    "name": "Finite Fantasy",
+    "short": "finite",
+    "type": "pt"
+  },
+  {
+    "name": "Focet Monsters",
+    "short": "focet",
+    "type": "mf"
+  },
+  {
+    "name": "Kerbal Vector Space Program",
+    "short": "kerbal",
+    "type": "pt"
+  },
+  {
+    "name": "League of Lemmas",
+    "short": "league",
+    "type": "pt"
+  },
+  {
+    "name": "Legend of Delta - Four Swords",
+    "short": "delta",
+    "type": "tg"
+  },
+  {
+    "name": "Little Big Parameter",
+    "short": "parameter",
+    "type": "pt"
+  },
+  {
+    "name": "Ln-Key Kong",
+    "short": "kong",
+    "type": "pt"
+  },
+  {
+    "name": "Mario Chart",
+    "short": "chart",
+    "type": "ts"
+  },
+  {
+    "name": "Team Racket",
+    "short": "racket",
+    "type": "bt"
+  },
+  {
+    "name": "Super Math Bros.",
+    "short": "super",
+    "type": "pt"
+  },
+  {
+    "name": "Sonic the Hedgelog",
+    "short": "sonic",
+    "type": "pt"
+  },
+  {
+    "name": "Sinesweeper",
+    "short": "sine",
+    "type": "pt"
+  },
+  {
+    "name": "Pokemon Snap",
+    "short": "snap",
+    "type": "md"
+  },
+  {
+    "name": "Omegaman",
+    "short": "omega",
+    "type": "pt"
+  },
+  {
+    "name": "Mortal Kombinatorics",
+    "short": "mortal",
+    "type": "pt"
+  }
+]
